@@ -1,6 +1,6 @@
 # Tailwind CSS - Nike Website
 
-Dive into the world of tailwindcss and build a Nike website.
+Mock frontpage of Nike's official website, with the most basic features. All built with Tailwind CSS.
 
 ## Demo:
 
